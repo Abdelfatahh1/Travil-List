@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Travil-List/static/css/main.fdc828fe.css",
+    "main.js": "/Travil-List/static/js/main.355a2be8.js",
+    "index.html": "/Travil-List/index.html",
+    "main.fdc828fe.css.map": "/Travil-List/static/css/main.fdc828fe.css.map",
+    "main.355a2be8.js.map": "/Travil-List/static/js/main.355a2be8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdc828fe.css",
+    "static/js/main.355a2be8.js"
+  ]
+}
